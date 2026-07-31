@@ -17,7 +17,7 @@ cd 'Practice 1'
 ## Usage
 Run the app:
 
-- Compile the program and execute.
+- Compile the program and execute. <br>
 Note: Make sure you are in the directory of the project.
 
 ```bash
@@ -36,7 +36,7 @@ TRIANGLE IS ISOSCELES
 
 ## Features
 - Classifies triangles into equilateral, isosceles, or scalene.
-- Accepts float decimals
+- Accepts float numbers.
 
 ## Tech Stack:
 - GCC
