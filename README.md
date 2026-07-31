@@ -17,7 +17,7 @@ git clone git@github.com:SusanLaime/Triangle-Checker.git
 cd 'Practice 1'
 
 # HTTPS
-[git clone git@github.com:SusanLaime/Triangle-Checker.git](https://github.com/SusanLaime/Triangle-Checker.git)
+git clone git@github.com:SusanLaime/Triangle-Checker.git
 cd 'Practice 1'
 ```
 ## Usage
