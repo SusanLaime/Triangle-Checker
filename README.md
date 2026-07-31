@@ -5,7 +5,7 @@ A brief program that verifies whether a triangle is scalene, isosceles or equila
 Susan Laime Lucero
 
 ## Prerequisites
-You need a C++ compiler (e.g. `gcc`) installed on your system.
+You need a C++ compiler (e.g. `g++`) installed on your system.
 
 ## Installation
 Clone this repository locally in your computer. 
