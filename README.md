@@ -44,7 +44,7 @@ TRIANGLE IS ISOSCELES
 - Accepts float numbers.
 - It works with negative numbers (to improve).
 
-## Tech Stack:
+## Tech Stack
 - GCC
 
 ## MIT License
