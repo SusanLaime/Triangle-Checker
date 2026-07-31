@@ -8,10 +8,16 @@ Susan Laime Lucero
 You need a C++ compiler (e.g. `g++`) installed on your system.
 
 ## Installation
-Clone this repository locally in your computer.
+Clone this repository locally in your computer. 
+
 
 ```bash
-git clone https://github.com/<your-username>/triangle-checker.git
+# SSH 
+git clone git@github.com:SusanLaime/Triangle-Checker.git
+cd 'Practice 1'
+
+# HTTPS
+[git clone git@github.com:SusanLaime/Triangle-Checker.git](https://github.com/SusanLaime/Triangle-Checker.git)
 cd 'Practice 1'
 ```
 ## Usage
