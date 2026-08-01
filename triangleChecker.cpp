@@ -13,7 +13,11 @@ int main()
 	cout << "Insert side C of the triangle: ";
 cin >> c;
 
-if (a == b && b == c)
+if (a < 0 || b < 0 || c < 0)
+{
+	cout << "The sides must be bigger than 0" << "\n";
+}
+else if (a == b && b == c)
 {
 	cout << "TRIANGLE IS EQUILATERAL" << "\n";
 }
