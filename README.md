@@ -42,7 +42,7 @@ TRIANGLE IS ISOSCELES
 
 ## Features
 - Accepts float numbers.
-- It works with negative numbers (to improve).
+- It has negative numbers validation.
 
 ## Tech Stack
 - GCC
